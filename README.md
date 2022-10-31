@@ -1,4 +1,4 @@
-### Hi there 👋
+![Profile page views](https://komarev.com/ghpvc/?username=ogtime&color=green)
 
 <!--
 **ogtime/ogtime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
