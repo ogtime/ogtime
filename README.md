@@ -1,8 +1,7 @@
-Innovation and development 💪🔥
-![OGTime's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGTime&count_private=true)
-
-
-![Profile page views](https://komarev.com/ghpvc/?username=ogtime&color=green)
+<p align="center">
+  ![Profile page views](https://komarev.com/ghpvc/?username=ogtime&color=green)<br/>
+</p>
+![OGTime's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGTime&count_private=true&theme=cobalt)
 
 
 <!--
